@@ -1,0 +1,3 @@
+&PCtxt=The cortex of the brain contains billions of Pyramidal Neuron Cells. These cells are responsible for the electrical activity recorded by the electroencephalogram, or EEG.&\par
+
+ 
